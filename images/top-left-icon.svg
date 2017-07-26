@@ -1,0 +1,59 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 602.97 492.043">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #adeaad;
+      }
+
+      .cls-2 {
+        fill: #d2ffd2;
+      }
+
+      .cls-3 {
+        fill: #f9f9f9;
+      }
+
+      .cls-4 {
+        fill: #a5dba5;
+      }
+
+      .cls-5, .cls-7 {
+        fill: #f3fff3;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-7 {
+        stroke: #4d575d;
+        stroke-miterlimit: 10;
+        stroke-width: 13px;
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient-2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-3788.753" y1="228.837" x2="-3622.755" y2="228.837" gradientTransform="matrix(-1, 0, 0, 1, -3224.76, -21.841)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bde5bd"/>
+      <stop offset="0.416" stop-color="#c0e8c0"/>
+      <stop offset="0.756" stop-color="#c8f2c8"/>
+      <stop offset="1" stop-color="#d2ffd2"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="33.399" y1="206.996" x2="199.397" y2="206.996" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#linear-gradient"/>
+  </defs>
+  <title>top left icon</title>
+  <g>
+    <rect class="cls-1" x="218.239" y="459.216" width="166.492" height="32.827"/>
+    <rect class="cls-1" x="247.485" y="398.563" width="108" height="63.417"/>
+    <rect class="cls-2" y="15.908" width="602.97" height="382.654" rx="31.732" ry="31.732"/>
+    <polyline class="cls-3" points="37.471 45.001 37.471 124.067 112.665 45.001 39.53 45.001"/>
+    <rect class="cls-4" x="247.485" y="398.563" width="108" height="15.429"/>
+    <rect class="cls-5" x="40.669" y="46.725" width="509.5" height="321.76"/>
+    <polygon class="cls-6" points="563.994 368.235 397.996 413.991 399.212 0 563.994 46.235 563.994 368.235"/>
+    <polyline class="cls-7" points="165.635 311.708 250.262 217.899 259.087 229.378 301.031 180.623 314.372 197.461 363.796 124.067"/>
+    <polygon class="cls-8" points="33.399 368.235 199.397 413.991 198.18 0 33.399 46.235 33.399 368.235"/>
+    <polyline class="cls-7" points="336.044 124.466 373.669 112.466 371.294 150.966"/>
+  </g>
+</svg>
