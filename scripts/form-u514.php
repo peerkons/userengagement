@@ -51,7 +51,7 @@ $form = array(
 			)
 		),
 		'custom_U520' => array(
-			'order' => 3,
+			'order' => 4,
 			'type' => 'string',
 			'label' => 'Company',
 			'required' => false,
@@ -59,7 +59,7 @@ $form = array(
 			)
 		),
 		'custom_U565' => array(
-			'order' => 4,
+			'order' => 3,
 			'type' => 'string',
 			'label' => 'Business Email',
 			'required' => true,
